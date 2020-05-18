@@ -1,7 +1,7 @@
 #EXTINF:-1,MARS TV
 http://114.31.15.254:554/hls/show.m3u8
 #EXTINF:-1,Gazi tv
-http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+http://103.141.66.36/bpk-tv/10328/default/manifest.mpd
 #EXTINF:-1,Maasranga
 https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 #EXTINF:-1,Asian TV
@@ -58,12 +58,12 @@ https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 http://103.205.133.42:1935/local/akash_aath_720/chunklist.m3u8
 #EXTINF:-1,Colors Bangla HD
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
-#EXTINF:-1,Sony Aath (Opt-02)
-http://103.205.133.42:1935/local/sony_aath_720/chunklist.m3u8
-#EXTINF:-1,Zee Bangla (Opt-1)
+#EXTINF:-1,Sony Aath 
+http://103.205.133.42:1935/live/sony_aath_240/index.m3u8
+#EXTINF:-1,Zee Bangla 
 http://103.205.133.42:1935/local/zee_bangla_720/playlist.m3u8
-#EXTINF:-1,Zee Bangla Cinema (Opt-01)
-https://streamer-1.toffeelive.com/live/zee_bangla_cinema_720/index.m3u8
+#EXTINF:-1,Zee Bangla Cinema 
+http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
 #EXTINF:-1,Tollywood TV
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
 #EXTINF:-1,Jagoroni TV
@@ -81,7 +81,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/24ghanta/index.m3u
 #EXTINF:-1,Sonic Bangla
 https://bracnet.iptv.jadoodigital.com:443/live/sonic/chunks.m3u8
 #EXTINF:-1,Nick (Bangla)
-https://bracnet.iptv.jadoodigital.com:443/live/nickelodeon/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 #EXTINF:-1,Sony Yay
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,Discovery Kids
@@ -97,11 +97,11 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
 #EXTINF:-A1,TN Music
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:-1,Gaan Bangla
-https://bracnet.iptv.jadoodigital.com/live/gaan_bangla/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 #EXTINF:-1,RTV Music
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1,Sangeet Bangla
-https://bracnet.iptv.jadoodigital.com/live/sangeet_bangla/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 #EXTINF:-1,Sony Ten 1 Opt-01)
 http://103.205.133.42:1935/local/sony_ten1_hd_720/playlist.m3u8
 #EXTINF:-1,Sony Ten 1 (Opt-02)
@@ -119,9 +119,9 @@ https://streamer-1.toffeelive.com/live/sony_six_hd_720/index.m3u8
 #EXTINF:-1,Sony SIX (Opt-02)
 https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD//master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,Star Sports 1 (Opt-1)
-http://p5.giffy.be:8080/gabi12/gabi12/20730
+http://cdn.banglatv.xyz/beeiptv-stb/starsports1/chunks.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-2)
-http://43.251.86.2:8080/hls/channel_3.m3u8
+http://cdn.banglatv.xyz/beeiptv-stb/starsports2/chunks.m3u8
 #EXTINF:-1,Abu Dhabi Sports 2
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
 #EXTINF:-1,Al Kass Sports 1
